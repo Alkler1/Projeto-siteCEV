@@ -12,4 +12,16 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.192) ;
+    border-radius: 8px;
+}
+img.lado{ 
+    float: right;
+    max-width: 100px;
+}
+img.Logo_internet {
+    max-width: 100px;
+    float: right;
+}
+img.seta {
+    max-width: 50px;
 }
